@@ -315,9 +315,7 @@ p {
     
      .footer .logo{
         text-align: center;
-        margin: 0px;
-        width: auto;
-        height: auto;
+        margin: auto;
     }
 
 }
